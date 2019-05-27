@@ -120,7 +120,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = 'C:/Users/Robin/Desktop/PoliceKI/static'
+STATIC_ROOT = 'C:/Users/Robin/Desktop/PokerKI/static'
 
 
 TINYMCE_DEFAULT_CONFIG = {
